@@ -1,0 +1,19 @@
+{
+  "ratio": 0.31211,
+  "sizes": [
+    900,
+    1500
+  ],
+  "flavors": [
+    "lime",
+    "tropical",
+    "raspberry",
+    "coconut"
+  ],
+  "source": {
+    "lime": "brochure",
+    "tropical": "brochure",
+    "raspberry": "brochure",
+    "coconut": "brochure"
+  }
+}
