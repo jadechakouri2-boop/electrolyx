@@ -1,0 +1,1 @@
+/* empty css             */document.querySelector(`[data-back]`)?.addEventListener(`click`,e=>{let t=!1;try{t=!!document.referrer&&new URL(document.referrer).origin===location.origin}catch{}!t||history.length<2||e.metaKey||e.ctrlKey||e.shiftKey||e.button||(e.preventDefault(),history.back())});

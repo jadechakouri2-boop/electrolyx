@@ -1,19 +1,59 @@
 {
-  "ratio": 0.31211,
+  "ratio": 0.30967,
   "sizes": [
     900,
     1500
   ],
   "flavors": [
-    "lime",
-    "tropical",
-    "raspberry",
-    "coconut"
+    "citrus-rush",
+    "mango-punch",
+    "peach-temptation",
+    "classy-raspberry",
+    "coconut-addiction",
+    "sunset-cherry",
+    "crazy-ginger",
+    "lime-rush"
   ],
-  "source": {
-    "lime": "brochure",
-    "tropical": "brochure",
-    "raspberry": "brochure",
-    "coconut": "brochure"
+  "colors": {
+    "citrus-rush": {
+      "cap": "#65792f",
+      "label": "#dbe267",
+      "base": "#d9e064"
+    },
+    "mango-punch": {
+      "cap": "#d9960f",
+      "label": "#fdde53",
+      "base": "#fee053"
+    },
+    "peach-temptation": {
+      "cap": "#db6f4c",
+      "label": "#fca570",
+      "base": "#fea871"
+    },
+    "classy-raspberry": {
+      "cap": "#b70724",
+      "label": "#f63e5d",
+      "base": "#fc4664"
+    },
+    "coconut-addiction": {
+      "cap": "#dad1c3",
+      "label": "#f5f0e4",
+      "base": "#f4eee1"
+    },
+    "sunset-cherry": {
+      "cap": "#ee3005",
+      "label": "#fd6f3a",
+      "base": "#fe7c41"
+    },
+    "crazy-ginger": {
+      "cap": "#87911f",
+      "label": "#f2e964",
+      "base": "#f3ea64"
+    },
+    "lime-rush": {
+      "cap": "#5a7325",
+      "label": "#e0e965",
+      "base": "#e4eb68"
+    }
   }
 }
